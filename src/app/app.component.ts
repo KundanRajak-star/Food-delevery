@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-
+import { StarRating } from 'angular-star-rating';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
