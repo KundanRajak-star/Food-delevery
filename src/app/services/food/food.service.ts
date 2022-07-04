@@ -212,7 +212,7 @@ export class FoodService {
      },
      {
       id:16,
-      name:'Anjali darling',
+      name:'Mixed Soup',
       cookTime:'10-40',
       price:887,
       favorite:true,
